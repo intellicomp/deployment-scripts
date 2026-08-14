@@ -11,6 +11,8 @@
 			<string>identifier "com.huntress.sysext" and anchor apple generic and certificate leaf[subject.OU] = "7W6HQ9J9XA" and certificate 1[field.1.2.840.113635.100.6.2.6] and certificate leaf[field.1.2.840.113635.100.6.1.13]</string>
 			<key>FilterGrade</key>
 			<string>firewall</string>
+			<key>FilterPackets</key>
+			<true/>
 			<key>FilterSockets</key>
 			<true/>
 			<key>FilterType</key>
