@@ -24,7 +24,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.webcontent-filter</string>
 			<key>PayloadUUID</key>
-			<string>6A41F61C-A9A0-4DA9-A72A-AF57D3ADFF33</string>
+			<string>8753c7b9-caf0-40fa-92f6-cdd34e6f513b</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PluginBundleID</key>
@@ -164,7 +164,7 @@
 	<key>PayloadDescription</key>
 	<string>Huntress PPPC for FDA and System Extension</string>
 	<key>PayloadDisplayName</key>
-	<string>Huntress Agent with System Extension v4</string>
+	<string>Huntress Agent with System Extension v5</string>
 	<key>PayloadIdentifier</key>
 	<string>com.huntress.app</string>
 	<key>PayloadOrganization</key>
@@ -174,7 +174,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>d90a6a9c-cf39-4307-b365-0f1a200778b0</string>
+	<string>8d3c534e-f2f6-42c1-8d20-aaf2ba35f2be</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>TargetDeviceType</key>
